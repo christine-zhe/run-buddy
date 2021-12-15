@@ -67,8 +67,12 @@ footer a {
   color: #024e76;
 }
 
-
 section {
+  padding: 60px;
+}
+.hero {
 background-image: url("./images/hero-bg.jpeg");
 height: 600px;
+background-size: cover;
+  background-position: center;
 }
